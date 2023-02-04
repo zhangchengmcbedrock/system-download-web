@@ -1,4 +1,4 @@
-English | [中文](./README_cn.md) |  
+简体中文 | [English](./README_en-us.md) |  
 # system-download-web  
 ## 这是一个系统下载合集
 (html编写)  
