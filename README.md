@@ -7,6 +7,6 @@ download  文件夹 是 标准版
 download-02  文件夹 是 精简版               
 精简版是把标准版一些内容进行精简       
 样子（demo）  
-![](https://raw.githubusercontent.com/zhangchengmcbedrock/zhangchengmcbedrock/main/res/Screenshot_20230203_195819.jpg)  
+![](https://raw.githubusercontent.com/zhangchengmcbedrock/zhangchengmcbedrock/main/res%202023%207%2029/01.png）  
 demo:http://zhangchengmcbedrock.github.io/demo/system-download-web-main/download/index.html
 
