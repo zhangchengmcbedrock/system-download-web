@@ -8,5 +8,5 @@ download-02  文件夹 是 精简版
 精简版是把标准版一些内容进行精简       
 样子（demo）  
 ![](https://raw.githubusercontent.com/zhangchengmcbedrock/zhangchengmcbedrock/main/res%202023%207%2029/01.png)
-demo:http://zhangchengmcbedrock.github.io/demo/system-download-web-main/download/index.html
+demo:http://zhangchengmcbedrock.github.io/2023815/system-download-web-main/downloadAuto/index.html
 
